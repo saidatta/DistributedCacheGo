@@ -1,0 +1,14 @@
+[
+  {
+    "name": "pigeon1",
+    "address": "localhost:8001"
+  },
+  {
+    "name": "pigeon2",
+    "address": "localhost:8002"
+  },
+  {
+    "name": "pigeon3",
+    "address": "localhost:8003"
+  }
+]
